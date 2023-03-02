@@ -1,0 +1,2 @@
+мар. 02, 2023 3:33:06 PM org.example.ServerApp main
+INFO: Тестовое логирование
